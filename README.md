@@ -1,6 +1,6 @@
 # ActionsTOCTOU
 
-This repository contains examples and a tool to monitor for an approval event (either a comment, label, or deployment environment approval) and then quickly replace a file in the pull request (PR) head with a local file specified as a parameter.
+This repository contains examples and a tool to monitor for an approval event (either a comment, label, or deployment environment approval) and then quickly replace a file in the pull request (PR) head with a local file specified as a parameter..
 
 The file to be replaced could be a script, an `action.yml` file, a `package.json` file, or any other file depending on the target workflow.
 
